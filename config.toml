@@ -1,0 +1,47 @@
+baseURL = 'http://anirudhsundar.github.io/'
+languageCode = 'en-us'
+title = 'Anirudh'
+theme = "hugo-coder"
+
+paginate = 20
+
+[markup.highlight]
+style = "onedar"
+
+[params]
+author = "Anirudh Sundar"
+description = "Anirudh Sundar's personal website"
+keywords = "blog,developer,personal"
+avatarURL = "images/avatar.jpg"
+info = ["Machine Learning Compilation", "TVM", "LLVM"]
+colorScheme = "dark"
+
+[[params.social]]
+name = "Github official"
+icon = "fa fa-2x fa-github-square"
+weight = 1
+url = "https://github.com/quic-sanirudh/"
+
+[[params.social]]
+name = "Github personal"
+icon = "fa fa-2x fa-github"
+weight = 1
+url = "https://github.com/anirudhsundar/"
+
+[[params.social]]
+name = "Twitter"
+icon = "fa fa-2x fa-twitter"
+weight = 3
+url = "https://twitter.com/sundaranirudh/"
+
+# https://www.linkedin.com/in/anirudh-sundar-s/
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-2x fa-linkedin"
+weight = 4
+url = "https://www.linkedin.com/in/anirudh-sundar-s/"
+
+[[languages.en.menu.main]]
+name = "About"
+weight = 1
+url = "about/"
