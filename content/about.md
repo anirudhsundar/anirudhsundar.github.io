@@ -4,8 +4,8 @@ date: 2023-03-10T23:35:07+05:30
 draft: false
 ---
 
-Hello. I’m a machine learning compiler engineer at Qualcomm, where I work on improving the performance of AI systems on Qualcomm’s Hexagon DSP architecture by contributing to Apache TVM and its LLVM backend. This site is meant to grow into my personal blog where I intend share anything that sparks my curiosity, from compilers and systems to mathematics and beyond. Nothing is off-limits and I’m always eager to learn new things and share them with you.
+Hello. I'm a ML Compiler Engineer at Qualcomm working on [Apache TVM](https://tvm.apache.org/) for Hexagon DSP. TVM is an open source end to end machine learning compiler framework. I also work on the Hexagon backend for [LLVM](https://llvm.org/), which is the core compiler for Hexagon DSP, and is also the backend target for the TVM compiler.
 
-I have a master’s degree in Computer Science from Indian Institute of Technology, Hyderabad, where I honed my skills in compiler optimizations.
+I have a master’s degree in Computer Science from Indian Institute of Technology, Hyderabad, where I focused primarily on compiler optimizations and High Performance Computing.
 
-I hope you find my blog fun and informative. Please feel free to leave your comments and feedback (especially when I'm wrong about something).
+This page is expected to turn into my personal blog, which I hope you would find fun and informative (when I actually add the first post). I enjoy learning new things, and I believe we live in a golden age on free and open education, so I plan to blog about anything new I learn.
