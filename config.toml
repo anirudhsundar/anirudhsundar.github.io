@@ -1,6 +1,6 @@
 baseURL = 'http://anirudhsundar.github.io/'
 languageCode = 'en-us'
-title = 'Anirudh'
+title = "HOME"
 theme = "hugo-coder"
 
 paginate = 20
